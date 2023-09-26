@@ -1,0 +1,102 @@
+{
+  "user": {
+    "version": 0,
+    "data": [
+      {
+        "name": "≤‚ ‘1",
+        "isShow": 1,
+        "subMenu": [
+          {
+            "name": "33",
+            "isShow": 1,
+            "app": [
+              {
+                "appName": "Œ¢–≈",
+                "appPackage": "com.tencent.mm",
+                "isShow": 1,
+                "isCollection": 0,
+                "dbIcon": ""
+              },
+              {
+                "appName": "QQ",
+                "appPackage": "com.tencent.mobileqq",
+                "isShow": 1,
+                "isCollection": 0,
+                "dbIcon": ""
+              },
+              {
+                "appName": "TIM",
+                "appPackage": "com.tencent.tim",
+                "isShow": 1,
+                "isCollection": 0,
+                "dbIcon": ""
+              }
+            ]
+          },
+          {
+            "name": "22",
+            "isShow": 1,
+            "app": [
+
+            ]
+          },
+          {
+            "name": "11",
+            "isShow": 1,
+            "app": [
+
+            ]
+          }
+        ]
+      },
+      {
+        "name": "≤‚ ‘2",
+        "isShow": 1,
+        "subMenu": [
+          {
+            "name": "3",
+            "isShow": 1,
+            "app": [
+              {
+                "appName": "Œ¢–≈",
+                "appPackage": "com.tencent.mm",
+                "isShow": 1,
+                "isCollection": 1,
+                "dbIcon": ""
+              },
+              {
+                "appName": "QQ",
+                "appPackage": "com.tencent.mobileqq",
+                "isShow": 1,
+                "isCollection": 1,
+                "dbIcon": ""
+              },
+              {
+                "appName": "TIM",
+                "appPackage": "com.tencent.tim",
+                "isShow": 1,
+                "isCollection": 1,
+                "dbIcon": ""
+              }
+            ]
+          },
+          {
+            "name": "2",
+            "isShow": 1,
+            "app": [
+
+            ]
+          },
+          {
+            "name": "1",
+            "isShow": 1,
+            "app": [
+
+            ]
+          }
+        ]
+      }
+    ]
+
+  }
+}

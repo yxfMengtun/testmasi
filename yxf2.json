@@ -1,0 +1,20 @@
+{
+	"yxf": {
+		"version": 1,
+		"data": [{
+			"name": "new",
+			"isShow": 1,
+			"subMenu": [{
+				"name": "测试2",
+				"isShow": 1,
+				"app": [{
+					"appName": "QQ",
+					"appPackage": "com.tencent.mobileqq",
+					"isShow": 1,
+					"isCollection": 0,
+					"dbIcon": ""
+				}]
+			}]
+		}]
+	}
+}
