@@ -3,7 +3,7 @@
     "version": 0,
     "data": [
       {
-        "name": "²âÊÔ1",
+        "name": "æµ‹è¯•1",
         "isShow": 1,
         "subMenu": [
           {
@@ -11,7 +11,7 @@
             "isShow": 1,
             "app": [
               {
-                "appName": "Î¢ÐÅ",
+                "appName": "å¾®ä¿¡",
                 "appPackage": "com.tencent.mm",
                 "isShow": 1,
                 "isCollection": 0,
@@ -50,7 +50,7 @@
         ]
       },
       {
-        "name": "²âÊÔ2",
+        "name": "æµ‹è¯•2",
         "isShow": 1,
         "subMenu": [
           {
@@ -58,7 +58,7 @@
             "isShow": 1,
             "app": [
               {
-                "appName": "Î¢ÐÅ",
+                "appName": "å¾®ä¿¡",
                 "appPackage": "com.tencent.mm",
                 "isShow": 1,
                 "isCollection": 1,
