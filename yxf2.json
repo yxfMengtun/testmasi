@@ -1,5 +1,5 @@
 {
-	"yxf": {
+	"yxf2": {
 		"version": 1,
 		"data": [{
 			"name": "new",
@@ -8,11 +8,11 @@
 				"name": "测试2",
 				"isShow": 1,
 				"app": [{
-					"appName": "QQ",
-					"appPackage": "com.tencent.mobileqq",
-					"isShow": 1,
-					"isCollection": 0,
-					"dbIcon": ""
+					    "appName": "微信",
+                "appPackage": "com.tencent.mm",
+                "isShow": 1,
+                "isCollection": 0,
+                "dbIcon": ""
 				}]
 			}]
 		}]
