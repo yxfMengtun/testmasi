@@ -1,0 +1,45 @@
+{
+	"yxf3": {
+		"version": 1,
+		"data": [
+			{
+				"name": "new1",
+				"isShow": 1,
+				"subMenu": [
+					{
+						"name": "测试1",
+						"isShow": 1,
+						"app": [
+							{
+								"appName": "微信",
+								"appPackage": "com.tencent.mm",
+								"isShow": 1,
+								"isCollection": 0,
+								"dbIcon": ""
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "new2",
+				"isShow": 1,
+				"subMenu": [
+					{
+						"name": "测试2",
+						"isShow": 1,
+						"app": [
+							{
+								"appName": "QQ",
+								"appPackage": "com.tencent.mobileqq",
+								"isShow": 1,
+								"isCollection": 0,
+								"dbIcon": ""
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}
